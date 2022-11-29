@@ -1,8 +1,8 @@
 import { ContactForm } from './ContactForm/ContactForm';
-import { ContactList } from './PhoneBookList/PhoneBookList';
+import { ContactList } from './PhoneBookList/ContactList';
 import { Filter } from './Filter/Filter';
 
-import { Title, Container } from './Container/Container.styled';
+import { Title, Container } from './UI/Container/Container.styled';
 
 function App() {
   return (
